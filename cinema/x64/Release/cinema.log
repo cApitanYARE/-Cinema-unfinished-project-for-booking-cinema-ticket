@@ -1,0 +1,37 @@
+﻿  AdminSide.cpp
+  logIn.cpp
+C:\Users\yare\Desktop\c++\cinema\cinema\logIn.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'logIn.cpp')
+  
+  MainForm.cpp
+C:\Users\yare\Desktop\c++\cinema\cinema\MainForm.h(8,18): error C1075: '{': no matching token found
+  (compiling source file 'MainForm.cpp')
+  
+  Program.cpp
+C:\Users\yare\Desktop\c++\cinema\cinema\logIn.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Program.cpp')
+  
+C:\Users\yare\Desktop\c++\cinema\cinema\signIn.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Program.cpp')
+  
+C:\Users\yare\Desktop\c++\cinema\cinema\Program.cpp(22,11): error C2039: 'logIn': is not a member of 'cinema::cinema'
+  C:\Users\yare\Desktop\c++\cinema\cinema\AdminSide.h(7,11):
+  see declaration of 'cinema::cinema'
+  
+C:\Users\yare\Desktop\c++\cinema\cinema\Program.cpp(26,12): error C2039: 'signIn': is not a member of 'cinema::cinema'
+  C:\Users\yare\Desktop\c++\cinema\cinema\AdminSide.h(7,11):
+  see declaration of 'cinema::cinema'
+  
+C:\Users\yare\Desktop\c++\cinema\cinema\Program.cpp(51,12): error C2039: 'MainForm': is not a member of 'cinema::cinema'
+  C:\Users\yare\Desktop\c++\cinema\cinema\AdminSide.h(7,11):
+  see declaration of 'cinema::cinema'
+  
+C:\Users\yare\Desktop\c++\cinema\cinema\MainForm.h(8,18): error C1075: '{': no matching token found
+  (compiling source file 'Program.cpp')
+  
+  signIn.cpp
+C:\Users\yare\Desktop\c++\cinema\cinema\signIn.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'signIn.cpp')
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...

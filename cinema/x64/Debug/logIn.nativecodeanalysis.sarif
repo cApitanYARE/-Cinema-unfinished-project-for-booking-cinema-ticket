@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.40.33811.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/yare/desktop/c++/cinema/cinema/login.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "3f307c859d9f906aea924f8d2575f4e7456562ce9ed2be77f99ce75f9d6a8ab6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yare/desktop/c++/cinema/cinema/login.h"
+          },
+          "hashes": {
+            "sha-256": "271a69135e5b5e75efffb9e5086d279162d9259baea6b0edcfda6d39020d5b27"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/yare/desktop/c++/cinema/cinema/user.h"
+          },
+          "hashes": {
+            "sha-256": "94709b337d66827978da24661ed220d614ad5c0d7d1856878552d7227ba9544a"
+          }
+        }
+      ]
+    }
+  ]
+}

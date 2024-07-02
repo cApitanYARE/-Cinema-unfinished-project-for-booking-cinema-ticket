@@ -1,0 +1,7 @@
+C:\Users\yare\Desktop\c++\cinema\cinema\x64\Debug\cinema.vcxproj.AssemblyReference.cache
+C:\Users\yare\Desktop\c++\cinema\cinema\x64\Debug\cinema.AdminSide.resources
+C:\Users\yare\Desktop\c++\cinema\cinema\x64\Debug\cinema.logIn.resources
+C:\Users\yare\Desktop\c++\cinema\cinema\x64\Debug\cinema.MainForm.resources
+C:\Users\yare\Desktop\c++\cinema\cinema\x64\Debug\cinema.signIn.resources
+C:\Users\yare\Desktop\c++\cinema\cinema\x64\Debug\cinema.UserUI.resources
+C:\Users\yare\Desktop\c++\cinema\cinema\x64\Debug\cinema.vcxproj.GenerateResource.cache
